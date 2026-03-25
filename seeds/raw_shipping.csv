@@ -1,0 +1,4 @@
+shipping_id,order_id,carrier,status,shipped_date,delivered_date,event_timestamp
+1,1001,FedEx,delivered,2026-03-20,2026-03-22,2026-03-22 10:00:00
+2,1002,UPS,shipped,2026-03-22,,2026-03-22 15:00:00
+3,1004,DHL,delivered,2026-03-23,2026-03-25,2026-03-25 11:00:00
